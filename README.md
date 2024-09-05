@@ -6,5 +6,5 @@ Hello service at http://34.172.139.242:8080/hello,
 World service at http://34.134.15.68:8081/world,
 and the combined HelloWorld service at http://34.172.139.242:8080/helloworld
 
-Please read the entire documentation on Confluence:
-https://karthikchindarkar.atlassian.net/wiki/x/AYAF
+Please read the entire documentation on [Confluence:
+https://karthikchindarkar.atlassian.net/wiki/x/AYAF](https://karthikchindarkar.atlassian.net/wiki/external/ODJiZjFjYWRlNWNkNDEwZWJhODkzOGJkMjQ5MmZhNWY)
